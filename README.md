@@ -13,7 +13,7 @@ Successfully navigate to the water without hitting a bug.
 
 ## Install
 
-Play the [live version](https://shiningsilk.github.io/udacity-fend-memory-game/). To install, download and unzip files, then open index.html to play.
+Download and unzip files, then open index.html. Or play the [live version](https://shiningsilk.github.io/udacity-fend-memory-game/).
 
 ## Instructions
 
